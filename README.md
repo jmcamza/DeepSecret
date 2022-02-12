@@ -14,5 +14,3 @@ Example:
 > **Note:** The **files** used in the examples will be available separately
 
 
->Files can be found in:
->smb://dtu-storage.win.dtu.dk/department/cfb/CFB-CHO/CLED/Personal/Manuel/CHOMan_data
