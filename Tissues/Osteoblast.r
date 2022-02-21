@@ -1,0 +1,41 @@
+# R script to download selected samples
+# Copy code and run on a local machine to initiate download
+
+library("rhdf5")    # can be installed using Bioconductor
+
+destination_file = "human_matrix_v10.h5"
+extracted_expression_file = "Osteoblast_expression_matrix.tsv"
+url = "https://s3.amazonaws.com/mssm-seq-matrix/human_matrix_v10.h5"
+
+# Check if gene expression file was already downloaded, if not in current directory download file form repository
+if(!file.exists(destination_file)){
+    print("Downloading compressed gene expression matrix.")
+    download.file(url, destination_file, quiet = FALSE, mode = 'wb')
+}
+
+# Selected samples to be extracted
+samp = c("GSM1333394","GSM1401372","GSM1333386","GSM1333400","GSM1333385","GSM1333404","GSM1333397","GSM1333408","GSM1333378","GSM1333379","GSM1397516","GSM1333393","GSM1333384","GSM1397514","GSM1401376","GSM1333401","GSM1333396","GSM1397515","GSM1333392","GSM1333381","GSM1333380","GSM1333406","GSM1333382","GSM1333402","GSM1333395","GSM1333399","GSM1333405","GSM1333389","GSM1333387","GSM1333383","GSM1333403",
+"GSM1333388","GSM1401380","GSM1333398","GSM1333390","GSM1333407","GSM1333391","GSM1958509","GSM1958508","GSM1958505","GSM1958507","GSM1958506","GSM1958527","GSM1958526","GSM1958525","GSM1958524","GSM1958523","GSM1958522","GSM1958521","GSM1958520","GSM1958528","GSM1958515","GSM1958518","GSM1958519","GSM1958516","GSM1958517","GSM1958514","GSM1958512","GSM1958513","GSM1958510","GSM1958511",
+"GSM2072462","GSM2072463","GSM2283676","GSM2283677","GSM2283678","GSM2283679","GSM2283680","GSM2360009","GSM2360010","GSM2360011","GSM2335733","GSM2865435","GSM2865436","GSM3416614","GSM3416615","GSM3416616","GSM3416617","GSM3416618","GSM3416619","GSM3416620","GSM3416621","GSM3416622","GSM3416623","GSM3416624","GSM3416625","GSM2743891","GSM2743892","GSM2743893","GSM2743894","GSM2743895",
+"GSM2743896","GSM2743899","GSM2743900","GSM2743901","GSM2743902","GSM2743903","GSM2743904","GSM2743907","GSM2743908","GSM2743909","GSM2743910","GSM2743911","GSM2743912","GSM2743915","GSM2743916","GSM2743917","GSM2743918","GSM2743919","GSM2743920","GSM3100997","GSM3100998","GSM3100999","GSM3101000","GSM3101001","GSM3101002","GSM3101003","GSM3101004","GSM3101005","GSM3101006","GSM3101007",
+"GSM3101008","GSM3101029","GSM3101030","GSM3101031","GSM3101032","GSM3101033","GSM3101034","GSM3101035","GSM3101036","GSM3057704","GSM3057706","GSM3057709","GSM3057711","GSM4005411","GSM4005412","GSM4005413","GSM4005415","GSM4005417","GSM4005418","GSM4005419","GSM4005420","GSM4005421","GSM4005422","GSM4005423","GSM4005424","GSM4005425","GSM4005426","GSM4005427","GSM4005428","GSM4005429",
+"GSM4005430","GSM4005431","GSM4005432","GSM4005433","GSM4005434","GSM4005435","GSM4005441","GSM4005447","GSM4005485","GSM4456053","GSM4456054","GSM4456055","GSM4456056","GSM3405948","GSM3405951","GSM3405954","GSM3405957","GSM3405960","GSM4117754","GSM4117755","GSM4117756","GSM4117757","GSM4117758","GSM4117759","GSM5115471","GSM5115472","GSM5115473","GSM5115474","GSM5115475","GSM5115476",
+"GSM5115477","GSM5115478","GSM5115479","")
+
+# Retrieve information from compressed data
+samples = h5read(destination_file, "meta/samples/geo_accession")
+genes = h5read(destination_file, "meta/genes/genes")
+
+# Identify columns to be extracted
+sample_locations = which(samples %in% samp)
+
+# extract gene expression from compressed data
+expression = t(h5read(destination_file, "data/expression", index=list(sample_locations, 1:length(genes))))
+H5close()
+rownames(expression) = genes
+colnames(expression) = samples[sample_locations]
+
+# Print file
+write.table(expression, file=extracted_expression_file, sep="\t", quote=FALSE, col.names=NA)
+print(paste0("Expression file was created at ", getwd(), "/", extracted_expression_file))
+
