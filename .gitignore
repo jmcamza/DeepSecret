@@ -1,6 +1,4 @@
 .idea
 venv
 inputs/human_tpm_v11.h5
-!outputs
-outputs/*
 notebooks/.ipynb_checkpoints
