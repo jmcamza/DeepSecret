@@ -1,0 +1,78 @@
+Entrez Gene ID,Gene Symbol,Gene Name,Original Symbol,type
+49,ACR,acrosin,ACR,secreted
+49,ACR,acrosin,ACR,secreted
+56,ACRV1,acrosomal vesicle protein 1,ACRV1,intracellular
+348094,ANKDD1A,ankyrin repeat and death domain containing 1A,ANKDD1A,intracellular
+8639,AOC3,amine oxidase copper containing 3,AOC3,membrane
+420,ART4,ADP-ribosyltransferase 4 (inactive) (Dombrock blood group),ART4,membrane
+566,AZU1,azurocidin 1,AZU1,secreted
+79946,C10orf95,chromosome 10 open reading frame 95,C10orf95,secreted
+716,C1S,complement C1s,C1S,secreted
+56245,C21orf62,chromosome 21 open reading frame 62,C21orf62,intracellular
+150248,C22orf15,chromosome 22 open reading frame 15,C22orf15,intracellular
+205327,C2orf69,chromosome 2 open reading frame 69,C2orf69,intracellular
+56934,CA10,carbonic anhydrase 10,CA10,secreted
+57828,CATSPERG,cation channel sperm associated auxiliary subunit gamma,CATSPERG,membrane
+960,CD44,CD44 molecule (Indian blood group),CD44,membrane
+10136,CELA3A,chymotrypsin like elastase 3A,CELA3A,secreted
+23436,CELA3B,chymotrypsin like elastase 3B,CELA3B,secreted
+168975,CNBD1,cyclic nucleotide binding domain containing 1,CNBD1,intracellular
+6900,CNTN2,contactin 2,CNTN2,membrane
+8292,COLQ,collagen like tail subunit of asymmetric acetylcholinesterase,COLQ,secreted
+1359,CPA3,carboxypeptidase A3,CPA3,secreted
+1395,CRHR2,corticotropin releasing hormone receptor 2,CRHR2,membrane
+167,CRISP1,cysteine rich secretory protein 1,CRISP1,secreted
+54967,CT55,cancer/testis antigen 55,CT55,intracellular
+11330,CTRC,chymotrypsin C,CTRC,secreted
+1506,CTRL,chymotrypsin like,CTRL,secreted
+51596,CUTA,cutA divalent cation tolerance homolog,CUTA,intracellular
+1991,ELANE,"elastase, neutrophil expressed",ELANE,secreted
+100526773,EPPIN-WFDC6,EPPIN-WFDC6 readthrough,EPPIN-WFDC6,intracellular
+54586,EQTN,equatorin,EQTN,membrane
+51752,ERAP1,endoplasmic reticulum aminopeptidase 1,ERAP1,intracellular
+64167,ERAP2,endoplasmic reticulum aminopeptidase 2,ERAP2,intracellular
+283635,FAM177A1,family with sequence similarity 177 member A1,FAM177A1,intracellular
+83416,FCRL5,Fc receptor like 5,FCRL5,membrane
+348751,FTCDNL1,formiminotransferase cyclodeaminase N-terminal like,FTCDNL1,intracellular
+256710,GLIPR1L1,GLIPR1 like 1,GLIPR1L1,membrane
+388323,GLTPD2,glycolipid transfer protein domain containing 2,GLTPD2,intracellular
+2999,GZMH,granzyme H,GZMH,secreted
+3060,HCRT,hypocretin neuropeptide precursor,HCRT,secreted
+3082,HGF,hepatocyte growth factor,HGF,secreted
+723961,INS-IGF2,INS-IGF2 readthrough,INS-IGF2,secreted
+9856,KIAA0319,KIAA0319,KIAA0319,membrane
+3816,KLK1,kallikrein 1,KLK1,secreted
+3817,KLK2,kallikrein related peptidase 2,KLK2,secreted
+401944,LDLRAD2,low density lipoprotein receptor class A domain containing 2,LDLRAD2,membrane
+4018,LPA,lipoprotein(a),LPA,secreted
+100507055,LRCOL1,leucine rich colipase like 1,LRCOL1,secreted
+439921,MXRA7,matrix remodeling associated 7,MXRA7,intracellular
+4884,NPTX1,neuronal pentraxin 1,NPTX1,secreted
+123904,NRN1L,neuritin 1 like,NRN1L,membrane
+51559,NT5DC3,5'-nucleotidase domain containing 3,NT5DC3,intracellular
+220323,OAF,out at first homolog,OAF,secreted
+170392,OIT3,oncoprotein induced transcript 3,OIT3,intracellular
+170392,OIT3,oncoprotein induced transcript 3,OIT3,intracellular
+5016,OVGP1,oviductal glycoprotein 1,OVGP1,secreted
+5122,PCSK1,proprotein convertase subtilisin/kexin type 1,PCSK1,intracellular
+5445,PON2,paraoxonase 2,PON2,membrane
+5479,PPIB,peptidylprolyl isomerase B,PPIB,intracellular
+10394,PRG3,"proteoglycan 3, pro eosinophil major basic protein 2",PRG3,secreted
+10279,PRSS16,serine protease 16,PRSS16,secreted
+5754,PTK7,protein tyrosine kinase 7 (inactive),PTK7,membrane
+5802,PTPRS,protein tyrosine phosphatase receptor type S,PTPRS,membrane
+56963,RGMA,repulsive guidance molecule BMP co-receptor a,RGMA,membrane
+6036,RNASE2,ribonuclease A family member 2,RNASE2,intracellular
+3053,SERPIND1,serpin family D member 1,SERPIND1,secreted
+126669,SHE,Src homology 2 domain containing E,SHE,intracellular
+100505989,SMIM31,small integral membrane protein 31,SMIM31,membrane
+246777,SPESP1,sperm equatorial segment protein 1,SPESP1,intracellular
+100506540,SPTY2D1OS,SPTY2D1 opposite strand,SPTY2D1OS,membrane
+8406,SRPX,sushi repeat containing protein X-linked,SRPX,membrane
+26608,TBL2,transducin beta like 2,TBL2,intracellular
+7058,THBS2,thrombospondin 2,THBS2,secreted
+7059,THBS3,thrombospondin 3,THBS3,secreted
+7130,TNFAIP6,TNF alpha induced protein 6,TNFAIP6,secreted
+148014,TTC9B,tetratricopeptide repeat domain 9B,TTC9B,intracellular
+128434,VSTM2L,V-set and transmembrane domain containing 2 like,VSTM2L,secreted
+79446,WDR25,WD repeat domain 25,WDR25,intracellular
