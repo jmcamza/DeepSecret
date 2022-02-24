@@ -1,0 +1,205 @@
+Entrez Gene ID,Gene Symbol,Gene Name,Original Symbol,type
+10058,ABCB6,ATP binding cassette subfamily B member 6 (Langereis blood group),ABCB6,membrane
+80167,ABHD18,abhydrolase domain containing 18,ABHD18,secreted
+43,ACHE,acetylcholinesterase (Cartwright blood group),ACHE,membrane
+83440,ADPGK,ADP dependent glucokinase,ADPGK,intracellular
+10551,AGR2,"anterior gradient 2, protein disulphide isomerase family member",AGR2,intracellular
+118429,ANTXR2,ANTXR cell adhesion molecule 2,ANTXR2,membrane
+427,ASAH1,N-acylsphingosine amidohydrolase 1,ASAH1,intracellular
+56624,ASAH2,N-acylsphingosine amidohydrolase 2,ASAH2,membrane
+2683,B4GALT1,"beta-1,4-galactosyltransferase 1",B4GALT1,intracellular
+7917,BAG6,BAG cochaperone 6,BAG6,intracellular
+85316,BAGE5,BAGE family member 5,BAGE5,secreted
+696,BTN1A1,butyrophilin subfamily 1 member A1,BTN1A1,membrane
+715,C1R,complement C1r,C1R,secreted
+79640,C22orf46,CTA-216E10.6,C22orf46,pseudogene
+100293534,C4B_2,"complement component 4B (Chido blood group), copy 2",C4B_2,secreted
+153571,C5orf38,chromosome 5 open reading frame 38,C5orf38,RNA
+203228,C9orf72,C9orf72-SMCR8 complex subunit,C9orf72,intracellular
+811,CALR,calreticulin,CALR,intracellular
+813,CALU,calumenin,CALU,intracellular
+837,CASP4,caspase 4,CASP4,intracellular
+414062,CCL3L3,C-C motif chemokine ligand 3 like 3,CCL3L3,secreted
+283316,CD163L1,CD163 molecule like 1,CD163L1,receptor
+8763,CD164,CD164 molecule,CD164,membrane
+57126,CD177,CD177 molecule,CD177,receptor
+131450,CD200R1,CD200 receptor 1,CD200R1,receptor
+30835,CD209,CD209 molecule,CD209,receptor
+966,CD59,CD59 molecule (CD59 blood group),CD59,membrane
+967,CD63,CD63 molecule,CD63,membrane
+925,CD8A,CD8a molecule,CD8A,receptor
+926,CD8B,CD8b molecule,CD8B,receptor
+928,CD9,CD9 molecule,CD9,receptor
+64866,CDCP1,CUB domain containing protein 1,CDCP1,receptor
+634,CEACAM1,CEA cell adhesion molecule 1,CEACAM1,membrane
+1113,CHGA,chromogranin A,CHGA,secreted
+1114,CHGB,chromogranin B,CHGB,secreted
+27159,CHIA,chitinase acidic,CHIA,secreted
+66005,CHID1,chitinase domain containing 1,CHID1,secreted
+83539,CHST9,carbohydrate sulfotransferase 9,CHST9,golgi
+9635,CLCA2,chloride channel accessory 2,CLCA2,membrane
+22802,CLCA4,chloride channel accessory 4,CLCA4,membrane
+10332,CLEC4M,C-type lectin domain family 4 member M,CLEC4M,receptor
+245812,CNPY4,canopy FGF signaling regulator 4,CNPY4,intracellular
+152330,CNTN4,contactin 4,CNTN4,membrane
+79937,CNTNAP3,contactin associated protein family member 3,CNTNAP3,membrane
+10699,CORIN,"corin, serine peptidase",CORIN,membrane
+1363,CPE,carboxypeptidase E,CPE,membrane
+286204,CRB2,crumbs cell polarity complex component 2,CRB2,membrane
+51232,CRIM1,cysteine rich transmembrane BMP regulator 1,CRIM1,membrane
+64109,CRLF2,cytokine receptor like factor 2,CRLF2,receptor
+1410,CRYAB,crystallin alpha B,CRYAB,intracellular
+1441,CSF3R,colony stimulating factor 3 receptor,CSF3R,receptor
+1513,CTSK,cathepsin K,CTSK,secreted
+1514,CTSL,cathepsin L,CTSL,secreted
+1520,CTSS,cathepsin S,CTSS,secreted
+1605,DAG1,dystroglycan 1,DAG1,membrane
+1621,DBH,dopamine beta-hydroxylase,DBH,secreted
+780,DDR1,discoidin domain receptor tyrosine kinase 1,DDR1,receptor
+10522,DEAF1,DEAF1 transcription factor,DEAF1,intracellular
+245915,DEFB112,defensin beta 112,DEFB112,secreted
+1826,DSCAM,DS cell adhesion molecule,DSCAM,membrane
+51705,EMCN,endomucin,EMCN,membrane
+55068,ENOX1,ecto-NOX disulfide-thiol exchanger 1,ENOX1,membrane
+10495,ENOX2,ecto-NOX disulfide-thiol exchanger 2,ENOX2,intracellular
+59084,ENPP5,ectonucleotide pyrophosphatase/phosphodiesterase family member 5,ENPP5,membrane
+284656,EPHA10,EPH receptor A10,EPHA10,receptor
+2042,EPHA3,EPH receptor A3,EPHA3,receptor
+2051,EPHB6,EPH receptor B6,EPHB6,receptor
+2057,EPOR,erythropoietin receptor,EPOR,receptor
+2135,EXTL2,exostosin like glycosyltransferase 2,EXTL2,intracellular
+2171,FABP5,fatty acid binding protein 5,FABP5,intracellular
+196792,FAM24B,family with sequence similarity 24 member B,FAM24B,RNA
+2204,FCAR,Fc fragment of IgA receptor,FCAR,receptor
+2264,FGFR4,fibroblast growth factor receptor 4,FGFR4,receptor
+387758,FIBIN,fin bud initiation factor homolog,FIBIN,secreted
+24147,FJX1,four-jointed box kinase 1,FJX1,secreted
+23769,FLRT1,fibronectin leucine rich transmembrane protein 1,FLRT1,membrane
+23768,FLRT2,fibronectin leucine rich transmembrane protein 2,FLRT2,membrane
+23767,FLRT3,fibronectin leucine rich transmembrane protein 3,FLRT3,membrane
+64838,FNDC4,fibronectin type III domain containing 4,FNDC4,secreted
+252995,FNDC5,fibronectin type III domain containing 5,FNDC5,secreted
+5045,FURIN,"furin, paired basic amino acid cleaving enzyme",FURIN,intracellular
+2550,GABBR1,gamma-aminobutyric acid type B receptor subunit 1,GABBR1,receptor
+2589,GALNT1,polypeptide N-acetylgalactosaminyltransferase 1,GALNT1,golgi
+2590,GALNT2,polypeptide N-acetylgalactosaminyltransferase 2,GALNT2,golgi
+2617,GARS1,glycyl-tRNA synthetase 1,GARS1,intracellular
+2633,GBP1,guanylate binding protein 1,GBP1,intracellular
+64096,GFRA4,GDNF family receptor alpha 4,GFRA4,receptor
+8836,GGH,gamma-glutamyl hydrolase,GGH,secreted
+2778,GNAS,GNAS complex locus,GNAS,intracellular
+84572,GNPTG,N-acetylglucosamine-1-phosphate transferase subunit gamma,GNPTG,intracellular
+2817,GPC1,glypican 1,GPC1,membrane
+221914,GPC2,glypican 2,GPC2,membrane
+2239,GPC4,glypican 4,GPC4,membrane
+2262,GPC5,glypican 5,GPC5,membrane
+10082,GPC6,glypican 6,GPC6,receptor
+79792,GSDMD,gasdermin D,GSDMD,intracellular
+57493,HEG1,heart development protein with EGF like domains 1,HEG1,membrane
+29923,HILPDA,hypoxia inducible lipid droplet associated,HILPDA,intracellular
+3181,HNRNPA2B1,heterogeneous nuclear ribonucleoprotein A2/B1,HNRNPA2B1,intracellular
+3326,HSP90AB1,heat shock protein 90 alpha family class B member 1,HSP90AB1,intracellular
+3303,HSPA1A,heat shock protein family A (Hsp70) member 1A,HSPA1A,intracellular
+126393,HSPB6,heat shock protein family B (small) member 6,HSPB6,intracellular
+3386,ICAM4,intercellular adhesion molecule 4 (Landsteiner-Wiener blood group),ICAM4,membrane
+29851,ICOS,inducible T cell costimulator,ICOS,membrane
+10437,IFI30,IFI30 lysosomal thiol reductase,IFI30,intracellular
+3547,IGSF1,immunoglobulin superfamily member 1,IGSF1,membrane
+55540,IL17RB,interleukin 17 receptor B,IL17RB,receptor
+132014,IL17RE,interleukin 17 receptor E,IL17RE,receptor
+3575,IL7R,interleukin 7 receptor,IL7R,receptor
+3581,IL9R,interleukin 9 receptor,IL9R,receptor
+81533,ITFG1,integrin alpha FG-GAP repeat containing 1,ITFG1,secreted
+3735,KARS1,lysyl-tRNA synthetase 1,KARS1,intracellular
+3791,KDR,kinase insert domain receptor,KDR,receptor
+90011,KIR3DX1,"killer cell immunoglobulin like receptor, three Ig domains X1 (pseudogene)",KIR3DX1,receptor
+84623,KIRREL3,kirre like nephrin family adhesion molecule 3,KIRREL3,membrane
+4254,KITLG,KIT ligand,KITLG,intracellular
+3902,LAG3,lymphocyte activating 3,LAG3,receptor
+3953,LEPR,leptin receptor,LEPR,receptor
+3963,LGALS7,galectin 7,LGALS7,secreted
+653499,LGALS7B,galectin 7B,LGALS7B,secreted
+3977,LIFR,LIF receptor subunit alpha,LIFR,receptor
+11026,LILRA3,leukocyte immunoglobulin like receptor A3,LILRA3,receptor
+10859,LILRB1,leukocyte immunoglobulin like receptor B1,LILRB1,receptor
+4012,LNPEP,leucyl and cystinyl aminopeptidase,LNPEP,secreted
+4249,MGAT5,"alpha-1,6-mannosylglycoprotein 6-beta-N-acetylglucosaminyltransferase",MGAT5,intracellular
+79258,MMEL1,membrane metalloendopeptidase like 1,MMEL1,membrane
+3140,MR1,"major histocompatibility complex, class I-related",MR1,membrane
+10232,MSLN,mesothelin,MSLN,membrane
+143662,MUC15,"mucin 15, cell surface associated",MUC15,membrane
+140453,MUC17,"mucin 17, cell surface associated",MUC17,membrane
+4583,MUC2,"mucin 2, oligomeric mucus/gel-forming",MUC2,secreted
+4584,MUC3A,"mucin 3A, cell surface associated",MUC3A,secreted
+80762,NDFIP1,Nedd4 family interacting protein 1,NDFIP1,membrane
+51335,NGRN,"neugrin, neurite outgrowth associated",NGRN,intracellular
+4814,NINJ1,ninjurin 1,NINJ1,membrane
+22871,NLGN1,neuroligin 1,NLGN1,membrane
+114548,NLRP3,NLR family pyrin domain containing 3,NLRP3,intracellular
+440348,NPIPB15,nuclear pore complex interacting protein family member B15,NPIPB15,membrane
+54888,NSUN2,NOP2/Sun RNA methyltransferase 2,NSUN2,intracellular
+120400,NXPE1,neurexophilin and PC-esterase domain family member 1,NXPE1,secreted
+60506,NYX,nyctalopin,NYX,membrane
+4938,OAS1,2'-5'-oligoadenylate synthetase 1,OAS1,intracellular
+54959,ODAM,"odontogenic, ameloblast associated",ODAM,intracellular
+4973,OLR1,oxidized low density lipoprotein receptor 1,OLR1,receptor
+255649,OOSP1,oocyte secreted protein 1,OOSP1,secreted
+126014,OSCAR,osteoclast associated Ig-like receptor,OSCAR,receptor
+144203,OVOS2,alpha-2-macroglobulin like 1 pseudogene,OVOS2,pseudogene
+64175,P3H1,prolyl 3-hydroxylase 1,P3H1,intracellular
+65217,PCDH15,protocadherin related 15,PCDH15,membrane
+10015,PDCD6IP,programmed cell death 6 interacting protein,PDCD6IP,intracellular
+51248,PDZD11,PDZ domain containing 11,PDZD11,membrane
+23037,PDZD2,PDZ domain containing 2,PDZD2,secreted
+5314,PKHD1,PKHD1 ciliary IPT domain containing fibrocystin/polyductin,PKHD1,membrane
+23659,PLA2G15,phospholipase A2 group XV,PLA2G15,secreted
+64600,PLA2G2F,phospholipase A2 group IIF,PLA2G2F,secreted
+5329,PLAUR,"plasminogen activator, urokinase receptor",PLAUR,receptor
+57125,PLXDC1,plexin domain containing 1,PLXDC1,membrane
+5364,PLXNB1,plexin B1,PLXNB1,intracellular
+6490,PMEL,premelanosome protein,PMEL,membrane
+5538,PPT1,palmitoyl-protein thioesterase 1,PPT1,intracellular
+5551,PRF1,perforin 1,PRF1,secreted
+5554,PRH1,proline rich protein HaeIII subfamily 1,PRH1,secreted
+5618,PRLR,prolactin receptor,PRLR,receptor
+149830,PRNT,"prion locus lncRNA, testis expressed",PRNT,RNA
+5660,PSAP,prosaposin,PSAP,lysosome
+5728,PTEN,phosphatase and tensin homolog,PTEN,intracellular
+137902,PXDNL,peroxidasin like,PXDNL,intracellular
+169714,QSOX2,quiescin sulfhydryl oxidase 2,QSOX2,intracellular
+135250,RAET1E,retinoic acid early transcript 1E,RAET1E,membrane
+90378,SAMD1,sterile alpha motif domain containing 1,SAMD1,intracellular
+10590,SCGN,"secretagogin, EF-hand calcium binding protein",SCGN,intracellular
+6386,SDCBP,syndecan binding protein,SDCBP,intracellular
+6388,SDF2,stromal cell derived factor 2,SDF2,secreted
+5055,SERPINB2,serpin family B member 2,SERPINB2,secreted
+5268,SERPINB5,serpin family B member 5,SERPINB5,secreted
+253970,SFTA3,surfactant associated 3,SFTA3,RNA
+54414,SIAE,sialic acid acetylesterase,SIAE,intracellular
+6614,SIGLEC1,sialic acid binding Ig like lectin 1,SIGLEC1,membrane
+89790,SIGLEC10,sialic acid binding Ig like lectin 10,SIGLEC10,membrane
+6622,SNCA,synuclein alpha,SNCA,intracellular
+389084,SNORC,secondary ossification center associated regulator of chondrocyte maturation,SNORC,membrane
+54558,SPATA6,spermatogenesis associated 6,SPATA6,intracellular
+79794,SPRING1,SREBF pathway regulator in golgi 1,SPRING1,intracellular
+6482,ST3GAL1,"ST3 beta-galactoside alpha-2,3-sialyltransferase 1",ST3GAL1,intracellular
+6483,ST3GAL2,"ST3 beta-galactoside alpha-2,3-sialyltransferase 2",ST3GAL2,intracellular
+6487,ST3GAL3,"ST3 beta-galactoside alpha-2,3-sialyltransferase 3",ST3GAL3,intracellular
+6484,ST3GAL4,"ST3 beta-galactoside alpha-2,3-sialyltransferase 4",ST3GAL4,intracellular
+6804,STX1A,syntaxin 1A,STX1A,intracellular
+55061,SUSD4,sushi domain containing 4,SUSD4,membrane
+79987,SVEP1,"sushi, von Willebrand factor type A, EGF and pentraxin domain containing 1",SVEP1,secreted
+79600,TCTN1,tectonic family member 1,TCTN1,secreted
+55901,THSD1,thrombospondin type 1 domain containing 1,THSD1,membrane
+84866,TMEM25,transmembrane protein 25,TMEM25,membrane
+26022,TMEM98,transmembrane protein 98,TMEM98,membrane
+9407,TMPRSS11D,transmembrane serine protease 11D,TMPRSS11D,membrane
+23430,TPSD1,tryptase delta 1,TPSD1,secreted
+7275,TUB,TUB bipartite transcription factor,TUB,intracellular
+7287,TULP1,TUB like protein 1,TULP1,secreted
+7289,TULP3,TUB like protein 3,TULP3,secreted
+7295,TXN,thioredoxin,TXN,intracellular
+7399,USH2A,usherin,USH2A,membrane
+7498,XDH,xanthine dehydrogenase,XDH,intracellular
+4904,YBX1,Y-box binding protein 1,YBX1,intracellular
+131368,ZPLD1,zona pellucida like domain containing 1,ZPLD1,secreted
