@@ -1,6 +1,6 @@
 .idea
 venv
-inputs/human_tpm_v11.h5
-outputs/secretory_pathway_expression.csv
+inputs/
+outputs/
 notebooks/.ipynb_checkpoints
 .ipynb_checkpoints
